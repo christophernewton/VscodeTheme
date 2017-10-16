@@ -1,0 +1,47 @@
+{
+    "name": "newton",
+    "displayName": "newton",
+    "description": "Newton theme",
+    "version": "0.0.1",
+    "publisher": "newton",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Newton Classic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newton-Classic.json"
+            },
+            {
+                "label": "Newton",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newton-color-theme.json"
+            },
+            {
+                "label": "Newton Machine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newton-Machine.json"
+            },
+            {
+                "label": "Newton Octagon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newton-Octagon.json"
+            },
+            {
+                "label": "Newton Ristretto",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newton-Ristretto.json"
+            },
+            {
+                "label": "Newton Spectrum",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newton-Spectrum.json"
+            }
+        ]
+    }
+}
