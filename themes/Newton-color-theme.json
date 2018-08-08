@@ -521,11 +521,6 @@
             "foreground": "#ff6188"
         }
     }, {
-        "scope": ["meta.paragraph.markdown meta.dummy.line-break", "meta.paragraph.markdown meta.hard-line-break.markdown"],
-        "settings": {
-            "background": "#ab9df2"
-        }
-    }, {
         "scope": "source.scss",
         "settings": {
             "foreground": "#939293"
@@ -624,12 +619,6 @@
         "scope": "support.variable",
         "settings": {
             "foreground": "#78dce8"
-        }
-    }, {
-        "scope": "support.type.property-name",
-        "settings": {
-            "fontStyle": "normal",
-            "foreground": "#fcfcfa"
         }
     }, {
         "scope": "support.class",
